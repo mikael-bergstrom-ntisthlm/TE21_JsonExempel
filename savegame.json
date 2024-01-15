@@ -1,0 +1,16 @@
+{
+  "score": 800,
+  "savepoint": 68,
+  "hitpoints": 39,
+  "money": 894,
+  "inventory": [
+    {
+      "name": "rope",
+      "weight": 4
+    },
+    {
+      "name": "cake",
+      "weight": 8
+    }
+  ]
+}

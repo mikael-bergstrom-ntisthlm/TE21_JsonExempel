@@ -1,0 +1,16 @@
+{
+  "name": "Master Chef",
+  "strength": 34,
+  "weapons": [
+    {
+      "name": "Cake Thrower",
+      "min_damage": 13,
+      "max_damage": 34
+    },
+    {
+      "name": "Cookie Launcher",
+      "min_damage": 3,
+      "max_damage": 88
+    }
+  ]
+}
